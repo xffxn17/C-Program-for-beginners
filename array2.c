@@ -1,6 +1,6 @@
 // write a program to enter number of elements and enter
 // elements of an arry and display it.
-#include<stdio.h>
+#include <stdio.h>
 void main()
 {
     int a[10], i, size;
